@@ -3,7 +3,7 @@
   margin-top: 10px;
   padding-top: 10px;
   width: 100%;
-  border-top: 2px solid #ec3237ff;
+  border-top: 2px solid #db3137;
 }
 
 .Lower p {
@@ -18,7 +18,7 @@
 }
 
 .aims span {
-  color: #ec3237ff;
+  color: #db3137;
   font-weight: bolder;
   font-size: 20px;
 }
@@ -26,7 +26,7 @@
 .footer {
   margin: 10px 10px 5px 10px;
   color: white;
-  background-color: #ec3237ff;
+  background-color: #db3137;
   height: 80px;
   display: flex;
   justify-content: space-evenly;
