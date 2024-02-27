@@ -36,10 +36,11 @@ export default function Middle() {
           </p>
           <img src={card} alt="Card Image" className="card" />
           <p className="para">
-            Government of India has awarded the "National Energy Conservation
-            Award 2018". Mr. G. Selvaraj, Joint Managing Director of C.R.I.
-            Group received the award from Smt. Sumitra Mahajan, Speaker of Lok
-            Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.
+            Government of India has awarded the{" "}
+            <span>"National Energy Conservation Award 2018"</span>. Mr. G.
+            Selvaraj, Joint Managing Director of C.R.I. Group received the award
+            from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar
+            Singh, Honorable Minister of State.
           </p>
         </div>
       </div>
