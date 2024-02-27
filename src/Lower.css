@@ -38,6 +38,7 @@
 
 .footer span i {
   margin-right: 5px;
+  font-size: 20px;
 }
 
 @media (max-width: 1000px) {
