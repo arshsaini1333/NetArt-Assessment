@@ -1,0 +1,48 @@
+.Middle {
+  width: 100%;
+}
+
+.part1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* flex-wrap: wrap; */
+}
+
+.para {
+  width: 100%;
+}
+
+.part1 .card {
+  height: 40%;
+  width: 92%;
+}
+
+.part2 p {
+  text-align: center;
+}
+
+.part2 img {
+  margin: 0px 15%;
+  height: 30%;
+  width: 70%;
+}
+
+@media only screen and (max-width: 1000px) {
+  .Middle {
+    padding-left: 10%;
+  }
+  .part1 {
+    display: grid;
+  }
+  .para {
+    padding: 0 15px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .part2 {
+    width: 100%;
+    padding-left: 10%;
+  }
+}

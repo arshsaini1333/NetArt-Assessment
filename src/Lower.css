@@ -1,0 +1,46 @@
+.Lower {
+  margin-top: 10px;
+  padding-top: 10px;
+  width: 100%;
+  border-top: 2px solid #ec3237ff;
+}
+
+.Lower p {
+  text-align: center;
+  /* background-color: #ec3237ff; */
+}
+
+.name {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.aims span {
+  color: #ec3237ff;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.footer {
+  margin: 10px;
+  color: white;
+  background-color: #ec3237ff;
+  height: 70px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.footer span {
+  margin: 0px 10px;
+}
+
+.footer span i {
+  margin-right: 5px;
+}
+
+@media (max-width: 1000px) {
+  .Lower {
+    width: 165vb;
+  }
+}
